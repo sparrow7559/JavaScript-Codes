@@ -9,4 +9,9 @@ accCity="Mumbai";
 
 // accID=2;
 console.log(accID);
+
+// prefer not to use var 
+// bcz of issue in block scope and fucntional scope
+
+
 console.table([accID,accEmail,accPass,accCity]);

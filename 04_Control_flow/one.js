@@ -67,3 +67,4 @@ if(loggedInFromEmail || loggedInFromGoogle){
     console.log("Logged in");
     
 }
+
